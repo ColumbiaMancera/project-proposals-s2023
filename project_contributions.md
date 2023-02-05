@@ -1,0 +1,2 @@
+## Project Contributions
+I'd start with smaller contributions to tensorflow such as those found in their "good first issue" (https://github.com/tensorflow/tensorflow/labels/good%20first%20issue) and "contributions welcome" (https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) sections. Then, I'd move to tackle the addition of a new feature for computer vision applications. I realize this is very broad but I'm deciding on it, last semester I worked on multi-scale models for computer vision and that could be a solid addition to their repo. 
